@@ -24,7 +24,6 @@ namespace Basics
             Console.WriteLine("Please enter one more number: ");
             string number3 = Console.ReadLine();
 
-            Console.WriteLine("The numbers you entered are: " +number1 + ", " + number2 + ", " + number3+".");
             Console.WriteLine($"The numbers you entered are: {number1}, {number2}, {number3}.");
 
         }
