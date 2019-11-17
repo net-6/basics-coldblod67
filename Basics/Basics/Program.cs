@@ -337,7 +337,7 @@ namespace Basics
             do
             {
                 Console.Clear();
-                Console.WriteLine("\t\t\tMAIN MENU\n\nFor the moment there are 6 of 14 methods available for use. " +
+                Console.WriteLine("\t\t\tMAIN MENU\n\nFor the moment there are 6 out of 14 methods available for use. " +
                                   "\nPlease input the number corresponding to the method you want to call.");
 
                 Console.WriteLine(
